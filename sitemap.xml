@@ -9,16 +9,26 @@
 		<loc>https://kongthap-code.github.io/Kongthapcode-blog//index</loc>
 		<priority>0.7</priority>
 		<changefreq>daily</changefreq>
-		<lastmod>2021-07-23</lastmod>
+		<lastmod>2022-09-26</lastmod>
+	</url>
+
+	<url>
+		<loc>https://kongthap-code.github.io/Kongthapcode-blog//null</loc>
+		<lastmod>2022-09-26</lastmod>
 	</url>
 
 	<url>
 		<loc>https://kongthap-code.github.io/Kongthapcode-blog//treasury/Authentication</loc>
-		<lastmod>2021-07-23</lastmod>
+		<lastmod>2022-09-26</lastmod>
+	</url>
+
+	<url>
+		<loc>https://kongthap-code.github.io/Kongthapcode-blog//treasury/Blockchain_token</loc>
+		<lastmod>2022-09-26</lastmod>
 	</url>
 
 	<url>
 		<loc>https://kongthap-code.github.io/Kongthapcode-blog//treasury/Cookie_crimes</loc>
-		<lastmod>2021-07-23</lastmod>
+		<lastmod>2022-09-26</lastmod>
 	</url>
 </urlset>
